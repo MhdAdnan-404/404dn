@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">Machine learning and AI</h3>
 
-- 🔭 I’m currently working on **CapStone Project**
+- 🔭 I’m currently working on **DRIVER BEHAVIOR MONITORING**
 
 - 🌱 I’m currently learning **TensorFlow, ReacteNative, sciKitLearn,**
 
