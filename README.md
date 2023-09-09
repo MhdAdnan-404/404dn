@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Self-driving Neural Network**
 
-- 🌱 I’m currently learning **TensorFlow, sciKitLearn,**
+- 🌱 I’m currently learning **TensorFlow, sciKitLearn, RNN**
 
 
 <p align="left">
