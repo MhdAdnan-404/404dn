@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 
 
-- 🔭 I’m currently working on **Self-driving Neural Network**
+- 🔭 I’m currently working on **Computure Vision**
 
-- 🌱 I’m currently learning **TensorFlow, sciKitLearn, RNN**
+- 🌱 I’m currently learning **TensorFlow**
 
 
 <p align="left">
