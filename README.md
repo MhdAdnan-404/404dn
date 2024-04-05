@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computure Vision**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Transformers**
 
 
 <p align="left">
