@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 
+```
+Adnan is a a curious person with a deep love for learning.
+```
 
 - 🔭 I’m currently working on **Computure Vision**
 
