@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="Images/RPReplay_Final1725985880.gif" width="200" alt="Welcome">
-</div>
-
+<h1 align="center">Hi 👋, I'm Adnan</h1>
 
 
 - 🔭 I’m currently working on **Computure Vision**
