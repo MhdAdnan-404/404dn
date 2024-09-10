@@ -3,11 +3,6 @@
 </div>
 
 
-```
-
-
-
-
 
 - 🔭 I’m currently working on **Computure Vision**
 
