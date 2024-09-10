@@ -1,4 +1,7 @@
-# <div align="center">![Welcome](Images/RPReplay_Final1725985880.gif)</div>
+<div align="center">
+  <img src="Images/RPReplay_Final1725985880.gif" width="200" height="200" alt="Welcome">
+</div>
+
 
 
 - 🔭 I’m currently working on **Computure Vision**
