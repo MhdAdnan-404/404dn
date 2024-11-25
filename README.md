@@ -4,7 +4,7 @@
 Adnan is a a curious person with a deep love for learning.
 ```
 
-- 🔭 I’m currently working on **Computure Vision**
+- 🔭 I’m currently working on **Multimodal**
 
 - 🌱 I’m currently learning **Transformers**
 
